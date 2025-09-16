@@ -18,6 +18,7 @@ int main() {
 	s.checkBalance();
 	s1.checkBalance();
 
+	cout << "SAID ";
 
 
 
